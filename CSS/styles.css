@@ -2,6 +2,12 @@ body {
   background-color: lavenderblush;
 }
 
+#index-h1 {
+  text-align: center;
+  padding: 30px 20px;
+  margin: 0 auto;
+}
+
 #contact-chat {
   text-align: center;
   color: coral;
